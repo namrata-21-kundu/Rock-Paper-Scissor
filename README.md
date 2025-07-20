@@ -12,4 +12,4 @@ This is a simple terminal-based "rock paper scissor" game between User and Compu
 
   # RUN CODE
   clone the repository and run :
-  rock_paper_scissor.py
+rock_paper_scissor.py
