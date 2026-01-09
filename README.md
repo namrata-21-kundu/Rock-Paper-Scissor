@@ -1,5 +1,5 @@
 # Rock Paper Scissors 🎮
-A simple rock paper scissor game using Python where the suer plays against the computer.
+A simple rock paper scissor game using Python where the user plays against the computer.
 
 # Overview 
 This is a simple terminal-based "rock paper scissor" game between User and Computer, which is built using Python. 
